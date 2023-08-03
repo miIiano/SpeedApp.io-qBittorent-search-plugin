@@ -1,0 +1,1 @@
+# SpeedApp.io-qBittorent-search-plugin
