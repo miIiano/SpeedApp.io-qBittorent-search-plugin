@@ -2,7 +2,7 @@
 
 ## Notes
 
-Edit the file by changing follwing 3 placeholdes with you account details.
+Edit the file by changing following 3 placeholdes with you account details.
 ```
  'USERNAME_HERE' username
  'PASSWD_HERE' password   (generates a token for search authentication via API)
