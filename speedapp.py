@@ -4,7 +4,7 @@
 import json
 import re
 import time
-import urllib
+import urllib.request
 import os
 import logging
 from base64 import urlsafe_b64decode
